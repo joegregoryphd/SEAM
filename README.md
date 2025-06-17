@@ -20,7 +20,7 @@ The Spacecraft Early Analysis Model (SEAM) is an open-source, modular, and reusa
 
 ```bash
 SEAM/
-├── SEAM Case Studies/          # Application examples (Biomass and ExoMars)
+├── SEAM Case Studies/          # Application examples (Biomass and ExoMars coming soon)
 ├── SEAM Framwork/              # SEAM SysML model (Cameo project) and scripts
 ├── SEAM Ontology/              # SEAM Ontology SysML model
 └── README.md
