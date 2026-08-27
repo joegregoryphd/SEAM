@@ -104,6 +104,22 @@ The SEAM was developed between 2020-2022 as part of Joe Gregory's PhD research w
 
 ---
 
+## 📜 License
+
+The **Spacecraft Early Analysis Model (SEAM)**, including the SysML/Cameo models, SEAM Ontology, Excel models, and documentation contained in this repository, is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+
+MATLAB source code (`.m` files) contained in this repository is licensed separately under the [MIT License](LICENSE-MIT).
+
+Copyright © Joe R. Gregory.
+
+Where third-party material is identified, that material remains subject to its original copyright and licensing terms.
+
+### Citation
+
+If you use SEAM in academic or research work, please cite the relevant SEAM publication(s) listed above.
+
+---
+
 ## 📬 Contact
 
 To provide feedback or to ask questions about the SEAM:
